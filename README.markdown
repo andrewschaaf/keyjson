@@ -3,6 +3,10 @@
 
 Simply put keyjson.py anywhere in your PYTHONPATH.
 
-# About keyjson
+# Lean More
 
-See [http://keyjson.org](http://keyjson.org)
+[http://keyjson.org](http://keyjson.org)
+
+# Elevator Pitch
+
+![](http://github.com/andrewschaaf/keyjson/raw/master/README-pitch.png)
